@@ -1,0 +1,6 @@
+name: LuckPermsPronouns
+version: '${project.version}'
+main: uk.cosrnic.luckpermspronouns.LuckPermsPronouns
+api-version: '1.20'
+author: cosrnic
+website: https://github.com/cosrnic/LPPronouns
